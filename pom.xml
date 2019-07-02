@@ -9,9 +9,10 @@
     <url>https://github.com/wakaleo/game-of-life</url>
     <distributionManagement>
 	<snapshotRepository>
+		<uniqueVersion>true</uniqueVersion>
 		<id>nexus</id>
-		<name>snapshots</name>
-		<url>http://18.223.1.162:8081/nexus/content/repositories/snapshots/</url>
+		<name>Snapshots</name>
+		<url>http://18.223.1.162:8081/nexus/content/repositories/Snapshots/</url>
 	</snapshotRepository>
 	<repository>
 		<uniqueVersion>false</uniqueVersion>
