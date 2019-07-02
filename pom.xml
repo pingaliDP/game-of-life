@@ -7,7 +7,7 @@
     <packaging>pom</packaging>
     <name>gameoflife</name>
     <url>https://github.com/wakaleo/game-of-life</url>
-    distributionManagement>
+    <distributionManagement>
 	<snapshotRepository>
 		<id>nexus</id>
 		<url>http://18.223.1.162:8081/nexus/content/repositories/Snapshots/</url>
