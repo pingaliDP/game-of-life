@@ -10,13 +10,13 @@
     distributionManagement>
 	<snapshotRepository>
 		<id>nexus</id>
-		<url>http://18.223.1.162:8081/nexus/content/repositories/snapshots/</url>
+		<url>http://18.223.1.162:8081/nexus/content/repositories/Snapshots/</url>
 	</snapshotRepository>
 	<repository>
 		<uniqueVersion>false</uniqueVersion>
 		<id>nexus</id>
 		<name>Releases</name>
-		<url>http://18.223.1.162:8081/nexus/content/repositories/releases/</url>
+		<url>http://18.223.1.162:8081/nexus/content/repositories/Releases/</url>
 	</repository>
 </distributionManagement>
     <properties>
